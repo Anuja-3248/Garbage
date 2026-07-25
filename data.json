@@ -1,0 +1,425 @@
+{
+  "cities": {
+    "Bengaluru": 8,
+    "Chennai": 6,
+    "Delhi": 5,
+    "Hyderabad": 5,
+    "Kochi": 4,
+    "Kolkata": 4,
+    "Mumbai": 7,
+    "Noida": 4,
+    "Pune": 7
+  },
+  "genders": {
+    "Male": 25,
+    "Female": 25
+  },
+  "salary_ranges": {
+    "40000 - 70000": [
+      {
+        "ID": 102,
+        "Name": "Priya Patel",
+        "Post": "Data Analyst",
+        "City": "Pune",
+        "Gender": "Female",
+        "Salary": 62000
+      },
+      {
+        "ID": 106,
+        "Name": "Neha Gupta",
+        "Post": "UI/UX Designer",
+        "City": "Hyderabad",
+        "Gender": "Female",
+        "Salary": 67000
+      },
+      {
+        "ID": 108,
+        "Name": "Pooja Deshmukh",
+        "Post": "QA Tester",
+        "City": "Pune",
+        "Gender": "Female",
+        "Salary": 52000
+      },
+      {
+        "ID": 110,
+        "Name": "Sneha Nair",
+        "Post": "Content Writer",
+        "City": "Kochi",
+        "Gender": "Female",
+        "Salary": 48000
+      },
+      {
+        "ID": 114,
+        "Name": "Ritu Kulkarni",
+        "Post": "Frontend Developer",
+        "City": "Pune",
+        "Gender": "Female",
+        "Salary": 69000
+      },
+      {
+        "ID": 117,
+        "Name": "Abhishek Das",
+        "Post": "Support Specialist",
+        "City": "Kolkata",
+        "Gender": "Male",
+        "Salary": 41000
+      },
+      {
+        "ID": 119,
+        "Name": "Varun Nambiar",
+        "Post": "System Admin",
+        "City": "Kochi",
+        "Gender": "Male",
+        "Salary": 58000
+      },
+      {
+        "ID": 122,
+        "Name": "Shruti Joshi",
+        "Post": "HR Associate",
+        "City": "Pune",
+        "Gender": "Female",
+        "Salary": 45000
+      },
+      {
+        "ID": 126,
+        "Name": "Swati Chatterjee",
+        "Post": "UI/UX Designer",
+        "City": "Kolkata",
+        "Gender": "Female",
+        "Salary": 66000
+      },
+      {
+        "ID": 130,
+        "Name": "Rachna Kacker",
+        "Post": "Content Strategist",
+        "City": "Delhi",
+        "Gender": "Female",
+        "Salary": 63000
+      },
+      {
+        "ID": 134,
+        "Name": "Pallavi Sinha",
+        "Post": "Frontend Developer",
+        "City": "Bengaluru",
+        "Gender": "Female",
+        "Salary": 68000
+      },
+      {
+        "ID": 137,
+        "Name": "Geeta Iyer",
+        "Post": "Technical Writer",
+        "City": "Chennai",
+        "Gender": "Female",
+        "Salary": 55000
+      },
+      {
+        "ID": 139,
+        "Name": "Sonalika Ghosh",
+        "Post": "Marketing Analyst",
+        "City": "Kolkata",
+        "Gender": "Female",
+        "Salary": 59000
+      },
+      {
+        "ID": 141,
+        "Name": "Jaya Bhatt",
+        "Post": "HR Specialist",
+        "City": "Mumbai",
+        "Gender": "Female",
+        "Salary": 54000
+      },
+      {
+        "ID": 142,
+        "Name": "Tushar Mehra",
+        "Post": "Network Engineer",
+        "City": "Noida",
+        "Gender": "Male",
+        "Salary": 64000
+      },
+      {
+        "ID": 143,
+        "Name": "Bhavana Reddy",
+        "Post": "Data Analyst",
+        "City": "Hyderabad",
+        "Gender": "Female",
+        "Salary": 63000
+      },
+      {
+        "ID": 145,
+        "Name": "Kiranmayi Das",
+        "Post": "UI Designer",
+        "City": "Chennai",
+        "Gender": "Female",
+        "Salary": 61000
+      },
+      {
+        "ID": 146,
+        "Name": "Naveen Kumar",
+        "Post": "Systems Engineer",
+        "City": "Bengaluru",
+        "Gender": "Male",
+        "Salary": 70000
+      }
+    ],
+    "70001 - 100000": [
+      {
+        "ID": 101,
+        "Name": "Aarav Sharma",
+        "Post": "AI Engineer",
+        "City": "Mumbai",
+        "Gender": "Male",
+        "Salary": 95000
+      },
+      {
+        "ID": 103,
+        "Name": "Rohan Verma",
+        "Post": "Software Developer",
+        "City": "Bengaluru",
+        "Gender": "Male",
+        "Salary": 78000
+      },
+      {
+        "ID": 104,
+        "Name": "Ananya Iyer",
+        "Post": "HR Manager",
+        "City": "Chennai",
+        "Gender": "Female",
+        "Salary": 85000
+      },
+      {
+        "ID": 107,
+        "Name": "Amit Kumar",
+        "Post": "DevOps Engineer",
+        "City": "Noida",
+        "Gender": "Male",
+        "Salary": 88000
+      },
+      {
+        "ID": 111,
+        "Name": "Karan Malhotra",
+        "Post": "ML Engineer",
+        "City": "Mumbai",
+        "Gender": "Male",
+        "Salary": 99000
+      },
+      {
+        "ID": 112,
+        "Name": "Divya Menon",
+        "Post": "Financial Analyst",
+        "City": "Chennai",
+        "Gender": "Female",
+        "Salary": 74000
+      },
+      {
+        "ID": 113,
+        "Name": "Manish Tiwari",
+        "Post": "Backend Developer",
+        "City": "Kolkata",
+        "Gender": "Male",
+        "Salary": 72000
+      },
+      {
+        "ID": 116,
+        "Name": "Meera Pillai",
+        "Post": "Scrum Master",
+        "City": "Bengaluru",
+        "Gender": "Female",
+        "Salary": 92000
+      },
+      {
+        "ID": 118,
+        "Name": "Tanvi Shah",
+        "Post": "Marketing Lead",
+        "City": "Mumbai",
+        "Gender": "Female",
+        "Salary": 81000
+      },
+      {
+        "ID": 120,
+        "Name": "Kavita Reddy",
+        "Post": "Data Engineer",
+        "City": "Hyderabad",
+        "Gender": "Female",
+        "Salary": 94000
+      },
+      {
+        "ID": 123,
+        "Name": "Deepak Verma",
+        "Post": "Security Analyst",
+        "City": "Bengaluru",
+        "Gender": "Male",
+        "Salary": 89000
+      },
+      {
+        "ID": 124,
+        "Name": "Nisha Agarwal",
+        "Post": "Business Analyst",
+        "City": "Mumbai",
+        "Gender": "Female",
+        "Salary": 79000
+      },
+      {
+        "ID": 127,
+        "Name": "Alok Mukherjee",
+        "Post": "DevOps Engineer",
+        "City": "Chennai",
+        "Gender": "Male",
+        "Salary": 86000
+      },
+      {
+        "ID": 128,
+        "Name": "Deepika Sen",
+        "Post": "QA Lead",
+        "City": "Bengaluru",
+        "Gender": "Female",
+        "Salary": 77000
+      },
+      {
+        "ID": 131,
+        "Name": "Yashwant Rao",
+        "Post": "ML Engineer",
+        "City": "Hyderabad",
+        "Gender": "Male",
+        "Salary": 97000
+      },
+      {
+        "ID": 133,
+        "Name": "Tarun Bajaj",
+        "Post": "Backend Developer",
+        "City": "Noida",
+        "Gender": "Male",
+        "Salary": 71000
+      },
+      {
+        "ID": 135,
+        "Name": "Zainab Khan",
+        "Post": "Cloud Engineer",
+        "City": "Mumbai",
+        "Gender": "Female",
+        "Salary": 91000
+      },
+      {
+        "ID": 138,
+        "Name": "Mohit Goyal",
+        "Post": "Database Admin",
+        "City": "Delhi",
+        "Gender": "Male",
+        "Salary": 76000
+      },
+      {
+        "ID": 144,
+        "Name": "Arjun Pillai",
+        "Post": "Software Developer",
+        "City": "Kochi",
+        "Gender": "Male",
+        "Salary": 75000
+      },
+      {
+        "ID": 147,
+        "Name": "Meenakshi Sundaram",
+        "Post": "Security Lead",
+        "City": "Chennai",
+        "Gender": "Female",
+        "Salary": 98000
+      },
+      {
+        "ID": 148,
+        "Name": "Prateek Jain",
+        "Post": "Full Stack Dev",
+        "City": "Pune",
+        "Gender": "Male",
+        "Salary": 83000
+      }
+    ],
+    "100001+": [
+      {
+        "ID": 105,
+        "Name": "Vikram Singh",
+        "Post": "Product Manager",
+        "City": "Delhi",
+        "Gender": "Male",
+        "Salary": 110000
+      },
+      {
+        "ID": 109,
+        "Name": "Rahul Joshi",
+        "Post": "Data Scientist",
+        "City": "Bengaluru",
+        "Gender": "Male",
+        "Salary": 125000
+      },
+      {
+        "ID": 115,
+        "Name": "Siddharth Rao",
+        "Post": "Cloud Architect",
+        "City": "Hyderabad",
+        "Gender": "Male",
+        "Salary": 135000
+      },
+      {
+        "ID": 121,
+        "Name": "Aditya Chopra",
+        "Post": "AI Researcher",
+        "City": "Delhi",
+        "Gender": "Male",
+        "Salary": 140000
+      },
+      {
+        "ID": 125,
+        "Name": "Harsh Vardhan",
+        "Post": "Software Architect",
+        "City": "Noida",
+        "Gender": "Male",
+        "Salary": 150000
+      },
+      {
+        "ID": 129,
+        "Name": "Nikhil Pawar",
+        "Post": "Data Scientist",
+        "City": "Pune",
+        "Gender": "Male",
+        "Salary": 115000
+      },
+      {
+        "ID": 132,
+        "Name": "Monika Jain",
+        "Post": "Financial Controller",
+        "City": "Mumbai",
+        "Gender": "Female",
+        "Salary": 105000
+      },
+      {
+        "ID": 136,
+        "Name": "Sameer Khan",
+        "Post": "Project Manager",
+        "City": "Pune",
+        "Gender": "Male",
+        "Salary": 102000
+      },
+      {
+        "ID": 140,
+        "Name": "Vineet Saxena",
+        "Post": "AI Consultant",
+        "City": "Bengaluru",
+        "Gender": "Male",
+        "Salary": 130000
+      },
+      {
+        "ID": 149,
+        "Name": "Roshni Menon",
+        "Post": "Operations Head",
+        "City": "Kochi",
+        "Gender": "Female",
+        "Salary": 112000
+      },
+      {
+        "ID": 150,
+        "Name": "Akash Deep",
+        "Post": "R&D Engineer",
+        "City": "Delhi",
+        "Gender": "Male",
+        "Salary": 108000
+      }
+    ]
+  }
+}
